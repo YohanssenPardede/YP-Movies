@@ -1,0 +1,20 @@
+{
+  "name": "yp-movies",
+  "version": "1.0.0",
+  "description": "movies web page",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "Yohanssen Pardede",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.2",
+    "jquery": "^3.5.1"
+  },
+  "devDependencies": {
+    "http-server": "^0.12.3",
+    "webpack": "^4.44.2",
+    "webpack-cli": "^3.3.12"
+  }
+}
